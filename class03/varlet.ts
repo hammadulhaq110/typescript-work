@@ -1,8 +1,8 @@
 // This code will give an error when it runs.
 
-var sunny = "hammad";
+let sunny = "hammad";
 
-var sunny = "muneeb";
+let sunny = "muneeb";
 
 console.log(sunny);
 
