@@ -9,5 +9,5 @@ var dupataColorTwo = "Red";
 console.log(dressColor != dupataColorOne);
 console.log(dressColor != dupataColorTwo);
 var myFirstName = "Hammad";
-var myLastName = "Ul haq";
+var myLastName = "Ul Haq";
 console.log(myFirstName + " wolf " + myLastName);
